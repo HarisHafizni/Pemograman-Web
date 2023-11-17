@@ -1,0 +1,25 @@
+Nama	: Haris Hafizni Pramudya
+Kelas	: IF22A
+NIM	: 22416255201267
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+2. Apa
+a. Sebutkan tema proyek yang sedang digarap!
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+c. 3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+3. Pada source code berikut: https://github.com/ysfwicaksana/webprogramming-course/tree/pertemuan-6 Terdapat file show.php di root proyek yang menghasilkan tabel data produk, Didalam nya terdapat fitur "EDIT" dan "HAPUS". Buatkan fitur "EDIT" dan "HAPUS" dan unggah source code di elearning/BOC!
+
+Jawaban
+1. Jika ingin membuat kue. Tanpa resep atau panduan, Anda mungkin harus mencoba-coba berbagai bahan dan takaran, dan ini bisa memakan waktu dan hasilnya tidak pasti. Nah, di sinilah konsep framework dalam pengembangan aplikasi mirip dengan memiliki resep atau panduan yang sudah teruji.
+2. Dalam konteks pengembangan aplikasi, framework adalah seperti resep atau panduan yang menyediakan struktur dan aturan tertentu untuk membangun aplikasi. Ini mencakup kumpulan alat, aturan, dan pola yang telah diatur sebelumnya untuk memudahkan pengembangan..
+3. 
+a. web sistem desa
+b. Annisa Azzahra Supratman(22416255201194)
+Jobdesk: FrontEnd
+Haris Hafizni Pramudya(22416255201267)
+Jobdesk: Backend
+Alfian Araviranata(22416255201213)
+Jobdesk: Analisis sistem
+c. Setelah wawancara dengan klien, kami menemukan bahwa banyak warga desa kesulitan mengakses, informasi publik, seperti pelayanan kesehatan, dan pengumuman penting. Mereka juga merasa sulit untuk memberikan masukan atau melaporkan masalah kepada pemerintah desa
+Hipotesa solusi yang kami ajukan adalah menciptakan sebuah sistem yang mengintegrasikan semua informasi ke dalam satu tempat yang mudah diakses oleh semua warga dan informasi penting dapat disebarkan dengan lebih efisien. Selain itu, kami berencana untuk menyertakan fitur umpan balik dan pelaporan masalah sehingga warga dapat berpartisipasi lebih aktif dalam pengembangan desa mereka.
+
+
